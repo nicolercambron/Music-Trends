@@ -5,28 +5,28 @@ below we have each of our group members and what they contributed to our project
 
 Hannah McPherson (Data Collection)
    
-    I decided to go with Billboard data since they are considered a reliable, unbiased source.
+I decided to go with Billboard data since they are considered a reliable, unbiased source.
 All billboard data insights are compiled by; Nielsen SoundScan, MRC Data, Music Connect, and Luminate.
 This allows Billboard to have a wide range of data including digital and physical sales, streams, and radio plays.
-    Billboard's full analytics are behind a paywall, but I was able to find the data archived on wikipedia. As listed below:
+Billboard's full analytics are behind a paywall, but I was able to find the data archived on wikipedia. As listed below:
 https://www.billboard.com/music/chart-beat/2023-us-year-end-music-report-luminate-top-album-morgan-wallen-taylor-swift-1235579214/ 
 https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2023
 https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2023
 https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2023
 https://en.wikipedia.org/wiki/List_of_Billboard_200_number-one_albums_of_2023
 
-    I started a web scraping program, but quickly abandoned that because when I tried to run the partial code, my laptop overheated.
+I started a web scraping program, but quickly abandoned that because when I tried to run the partial code, my laptop overheated.
 After trying again and having the same result, I decided to save my computer and manually format the data into Excel files.
 After formatting and editing I exported the files as CSVs and pushed them to our git repository.
 
-    While my team members were working with the data, I put together a skeleton presentation for us to drag and drop our findings in. 
+While my team members were working with the data, I put together a skeleton presentation for us to drag and drop our findings in. 
 I was also responsible for our ethics considerations, which are as follows:
 While Billboard is considered a reputable source for chart data, It should all be taken with a grain of salt.
 Music is a very lucrative business and many people have come up with ways to manipulate chart data in their favor.
 For example, you may have noticed that songs have been getting shorter.
 This is due to the emergence of streaming and the number of streams a song gets contributes to its chart rank.
 Shorter songs get more replays, which has made artists gravitate toward songs closer to 2:30 minutes.
-    Less ethical ways charts are manipulated include;
+Less ethical ways charts are manipulated include;
 bulk buying where fans or an artist’s company bulk buy an album or track to artificially boost sales data,
 streaming fraud where a bot is programed to replay a song
 (or fans put together ‘streaming parties’ that have a song playing on repeat over multiple devices)
